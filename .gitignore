@@ -1,0 +1,26 @@
+dads/
+metaworld/
+relay-policy-learning/
+Diver
+slidingWindow/
+handpicked/
+DiversityIsAllYouNeed-SB3/
+dmc2gym/
+test_video/
+url_benchmark/
+exp_local/
+.vscode/
+
+# saved models and gifs
+**.gif
+**.zip
+**.csv
+
+*.png
+*.yml
+
+# py caches
+**.DS_Store
+**/__pycache__/
+**.py[cod]
+**py.class
